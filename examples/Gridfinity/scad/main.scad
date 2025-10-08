@@ -4,6 +4,7 @@
 include <NopSCADlib/core.scad>
 
 use <lathe_tool_stand.scad>
+use <MT1_stand.scad>
 use <MT2_stand.scad>
 use <chuck_stand.scad>
 use <chuck_jaw_bin.scad>
@@ -21,6 +22,9 @@ module main_assembly()
 
         translate([42, 63])
             MT2_stand_stl();
+
+        translate([5 * 42, 63])
+            MT1_stand_stl();
 
         translate([42 * 2, -42 / 2])
             chuck_stand_stl();
