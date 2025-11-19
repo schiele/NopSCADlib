@@ -28,7 +28,8 @@ Gridfinity examples
 | &nbsp;&nbsp;1&nbsp; |  &nbsp;&nbsp;1&nbsp; | &nbsp;&nbsp;chuck_stand.stl |
 | &nbsp;&nbsp;1&nbsp; |  &nbsp;&nbsp;1&nbsp; | &nbsp;&nbsp;faceplate_stand.stl |
 | &nbsp;&nbsp;1&nbsp; |  &nbsp;&nbsp;1&nbsp; | &nbsp;&nbsp;lathe_tool_stand.stl |
-| &nbsp;&nbsp;8&nbsp; | &nbsp;&nbsp;8&nbsp; | &nbsp;&nbsp;Total 3D printed parts count |
+| &nbsp;&nbsp;1&nbsp; |  &nbsp;&nbsp;1&nbsp; | &nbsp;&nbsp;vice_stand.stl |
+| &nbsp;&nbsp;9&nbsp; | &nbsp;&nbsp;9&nbsp; | &nbsp;&nbsp;Total 3D printed parts count |
 
 <span></span>
 [Top](#TOP)
@@ -48,9 +49,9 @@ Gridfinity examples
 | ![MT2_stand.stl](stls/MT2_stand.png) | ![chuck_jaw_bin.stl](stls/chuck_jaw_bin.png) | ![chuck_stand.stl](stls/chuck_stand.png) 
 
 
-| 1 x [faceplate_stand.stl](stls/faceplate_stand.stl) | 1 x [lathe_tool_stand.stl](stls/lathe_tool_stand.stl) |
-|---|---|
-| ![faceplate_stand.stl](stls/faceplate_stand.png) | ![lathe_tool_stand.stl](stls/lathe_tool_stand.png) 
+| 1 x [faceplate_stand.stl](stls/faceplate_stand.stl) | 1 x [lathe_tool_stand.stl](stls/lathe_tool_stand.stl) | 1 x [vice_stand.stl](stls/vice_stand.stl) |
+|---|---|---|
+| ![faceplate_stand.stl](stls/faceplate_stand.png) | ![lathe_tool_stand.stl](stls/lathe_tool_stand.png) | ![vice_stand.stl](stls/vice_stand.png) 
 
 
 

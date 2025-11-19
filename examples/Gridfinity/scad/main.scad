@@ -11,6 +11,7 @@ use <chuck_jaw_bin.scad>
 use <1x1_bin.scad>
 use <123_block_stand.scad>
 use <faceplate_stand.scad>
+use <vice_stand.scad>
 
 
 //! Show all the Gridfinity parts
@@ -38,8 +39,11 @@ module main_assembly()
         translate([42 * 4, -42 / 2])
             123_block_stand_stl();
 
-         translate([42 * 6.5, 0])
+        translate([42 * 0.5, 42 * -2])
             faceplate_stand_stl();
+
+        translate([42 * 6, -42 / 2])
+            vice_stand_stl();
     }
 
 

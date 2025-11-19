@@ -8,3 +8,4 @@ Printed:
   1 chuck_stand.stl
   1 faceplate_stand.stl
   1 lathe_tool_stand.stl
+  1 vice_stand.stl
